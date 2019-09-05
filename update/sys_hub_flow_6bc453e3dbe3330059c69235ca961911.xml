@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action.</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"b92fa551-5715-4871-897b-820e0b2ccc38.follow_up_task","label":"1➛Follow-up task","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"reference","base_type":"reference"},{"name":"70d74bd6-d806-4730-87f3-8c8e9a86b9be.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"},{"name":"5f6da94e-d10d-455b-a87d-82d9944ba21b.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-04 02:55:33</sys_created_on>
+        <sys_id>6bc453e3dbe3330059c69235ca961911</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_88242_needit_spo">59435befdba3330059c69235ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">59435befdba3330059c69235ca9619d6</sys_scope>
+        <sys_update_name>sys_hub_flow_6bc453e3dbe3330059c69235ca961911</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-05 01:23:02</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_variable_value action="delete_multiple" query="document_key=6bc453e3dbe3330059c69235ca961911"/>
+</record_update>
